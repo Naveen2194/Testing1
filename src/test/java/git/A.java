@@ -5,6 +5,10 @@ public class A {
 		System.out.println("A");
 		System.out.println("B");
 		System.out.println("C");
+		System.out.println("F");
+		System.out.println("G");
+		System.out.println("H");
+		
 	}
 
 }
